@@ -1,7 +1,7 @@
 import React from 'react';
 import './Service.css'
 const Service = (props) => {
-    console.log(props.product)
+    // console.log(props.product)
     const { Types, img, price, quality, duration, rating } = props.product;
     return (
         <div>

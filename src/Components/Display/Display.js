@@ -15,8 +15,13 @@ const Display = () => {
             {/* items section  */}
             <div className="items-container">
                 <h2>All service available here: {products.length}</h2>
+
                 {
-                    products.map(product => <Service product={product}
+
+                    products.map(product => <Service
+                        // make unique element by name 
+                        key={product.Types}
+                        product={product}
                     ></Service>)
                 }
             </div>
