@@ -1,7 +1,7 @@
 import React from 'react';
 import './Service.css'
 const Service = (props) => {
-    // console.log(props.product)
+    // console.log(props)
     const { Types, img, price, quality, duration, rating } = props.product;
     return (
         <div>
@@ -10,10 +10,12 @@ const Service = (props) => {
                     <h2>Name of art: {Types}</h2>
                     <img className="image" src={img} alt="" />
                     <h4>Quality: {quality}</h4>
-                    <p>Price: tk{price}</p>
+                    <p>Price: TK.{price}</p>
                     <h3>Duration: {duration}</h3>
                     <h4>Ratings: {rating}</h4>
-                    <button className="btn">Add order</button>
+                    <button
+                        onClick={() => props.handleAddToCart(props.product)}
+                        className="btn">Add order</button>
                 </div>
 
             </div>

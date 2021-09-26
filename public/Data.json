@@ -1,7 +1,7 @@
 [
     {
         "Types": "Face Primer",
-        "img": "https://img.indiefolio.com/fit-in/1100x0/filters:format(webp):fill(transparent)/project/body/93815a3509059eb4c02d8a5a5223cbe3.jpg",
+        "img": "https://images.unsplash.com/photo-1521837670401-2bd439d49e6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=670&q=80",
         "price": 100,
         "quality": "average",
         "duration": "12hr",
@@ -25,7 +25,7 @@
     },
     {
         "Types": "Concealer",
-        "img": "https://images.unsplash.com/photo-1521837670401-2bd439d49e6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=670&q=80",
+        "img": "https://img.indiefolio.com/fit-in/1100x0/filters:format(webp):fill(transparent)/project/body/93815a3509059eb4c02d8a5a5223cbe3.jpg",
         "price": 400,
         "quality": "medium",
         "duration": "6hr",
@@ -64,11 +64,11 @@
         "rating": 4.2
     },
     {
-        "Types": "Setting Spy",
+        "Types": "Maskara",
         "img": "https://images.unsplash.com/photo-1511923199659-1c16881689de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449&q=80",
-        "price": 150,
-        "quality": "Better",
-        "duration": "6hr",
-        "rating": 4.2
+        "price": 100,
+        "quality": "poor",
+        "duration": "3hr",
+        "rating": 4.1
     }
 ]

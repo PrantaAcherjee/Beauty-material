@@ -7,7 +7,7 @@ import Display from './Components/Display/Display';
 function App() {
 
   return (
-    <div>
+    <div className="initial-part">
       <Header></Header>
       <Display></Display>
     </div>
