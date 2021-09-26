@@ -1,8 +1,15 @@
 .calculate-cart{
     color: black;
     border: 2px solid rgba(0, 255, 255, 0.746)(0, 255, 255, 0.746);
+    border-radius: 8px;
     background-color: rgb(59, 117, 117);
     text-align: center;
     width: 85%;
     height: 15%;
+}
+.bg-color{
+    color: greenyellow;
+}
+.calculate-cart:hover{
+    background-color: lightgreen;
 }

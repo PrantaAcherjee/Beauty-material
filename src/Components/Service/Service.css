@@ -10,6 +10,9 @@ border-radius: 10px;
 box-shadow: 5px 8px;
   margin: 10px;
  }
+ .single-service:hover{
+     background-color: slateblue;
+ }
  .btn{
      background-color:blue;
      color: white;
@@ -22,4 +25,9 @@ box-shadow: 5px 8px;
  .btn:hover{
      background-color: gold;
  }
+ .name-style{
+     color: purple;
+ }
+ .blue{color: blue;}
+ .orange{color: tomato;}
   
