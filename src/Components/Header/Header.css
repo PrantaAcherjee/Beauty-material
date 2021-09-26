@@ -1,0 +1,15 @@
+ /* header section style  */
+ 
+.header-section{
+    text-align: center;
+    background-color: palevioletred;
+    color: white;
+    text-transform: uppercase;
+    width: 80%;
+    margin: auto;
+
+}
+.package{color: black;}
+.h-1{
+    color: chartreuse;
+}

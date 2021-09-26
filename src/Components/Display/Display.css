@@ -1,0 +1,12 @@
+/* display product style section  */
+.display-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    color: slateblue;
+}
+.items-container{
+    border-right: 1px solid grey;
+    margin-left: 10px;
+    margin-right: 15px;
+     
+}

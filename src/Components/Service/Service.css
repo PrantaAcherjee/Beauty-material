@@ -1,0 +1,20 @@
+ .image{
+     width: 25%;  
+     border: 2px solid gold;   
+ }
+ .single-service{
+color: black;
+ }
+ .btn{
+     background-color:blue;
+     color: white;
+     width: 15%;
+     height: 30px;
+     border: 3px solid grey;
+     border-radius: 6px;
+     cursor: pointer;
+ }
+ .btn:hover{
+     background-color: gold;
+ }
+  
