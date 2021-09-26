@@ -10,7 +10,7 @@ const Service = (props) => {
                     <h2>Name of art: <span className="name-style">{Types}</span></h2>
                     <img className="image" src={img} alt="" />
                     <h4>Quality: {quality}</h4>
-                    <p>Price: TK.{price}</p>
+                    <p>Price: ${price}</p>
                     <h3>Duration: {duration}</h3>
                     <h4>Ratings: {rating}</h4>
                     <i class="fab fa-facebook blue"></i> <i class="fab fa-instagram-square orange"></i> <i class="fab fa-twitter blue"></i><br />

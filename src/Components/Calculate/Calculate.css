@@ -5,7 +5,7 @@
     background-color: rgb(59, 117, 117);
     text-align: center;
     width: 85%;
-    height: 15%;
+    padding-bottom: 5px;
 }
 .bg-color{
     color: greenyellow;
